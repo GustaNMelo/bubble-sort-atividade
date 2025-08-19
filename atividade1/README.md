@@ -8,7 +8,3 @@ Este repositório contém a implementação do algoritmo Bubble Sort em Python, 
 - Digite uma lista de números separados por espaço
 - O programa mostrará a lista original e a lista ordenada
 - Também serão realizados testes com listas de tamanho 10, 100 e 1000
-
-## Autor
-
-Gustavo Nunes Melo
