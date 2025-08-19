@@ -2,6 +2,8 @@
 
 Este repositório contém a implementação do algoritmo Bubble Sort em Python, conforme solicitado na atividade da disciplina.
 
+---
+
 ## Como usar
 
 - Execute o script `bubble_sort.py`
